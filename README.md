@@ -1,0 +1,1 @@
+This is a 3D CAD model I made during a small paid project. It represents a hypothetical building, and was made from a combination of photos and oral explanations of desired outcome, as well as 2D sketches. 
